@@ -14,7 +14,7 @@ body{
 	background: #f2a297;
 }
 canvas{
-	position: absolute;
+	position: fixed;
 	z-index: 0;
 }
 
